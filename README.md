@@ -22,3 +22,6 @@
 Кнопка new task позволит создать новую заметку, которая по умолчанию попадет в первую колонку, после чего ее также можно перемещать.
 
 ![Alt text](frontend/public/images/notes.png?raw=true "notes")
+
+
+Технологии: React, Redux, Node.js, Express, MognoDB, Mongoose, Nodemailer, React-beautiful-dnd, Chart.js, Material-UI, File-Saver.js
